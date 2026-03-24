@@ -1,0 +1,7 @@
+path: ./SKU110K_fixed
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ["product"]
